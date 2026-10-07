@@ -215,4 +215,4 @@ DU Recorder is available as a full free version with all features and updates in
 Ready to take your screen recording to the next level? **Download DU Recorder now and start capturing your screen effortlessly!**
 
 ---
-**Last updated:** 2026-10-07 01:18:45 UTC
+**Last updated:** 2026-10-07 08:23:21 UTC
